@@ -1,0 +1,13 @@
+{
+  "Company": "Apple Inc.",
+  "Ticker": "AAPL",
+  "Analysis Period": "2019-01-02 to 2023-12-29",
+  "Total Days": 1258,
+  "Starting Price": 37.47,
+  "Ending Price": 190.38,
+  "Price Change": 152.91,
+  "Percent Change": 408.08,
+  "Average Volatility": 29.31,
+  "Highest Price": 195.89,
+  "Lowest Price": 33.74
+}
